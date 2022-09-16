@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "cnpj": {
+            "type": "string"
+        },
+        "trackingEndpoint": {
+            "type": "string",
+            "description": "Endpoint to send the message with the status of the process"
+        }
+    },
+    "required": [
+        "cnpj",
+        "trackingEndpoint"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "companySize": {
+        "NÃO INFORMADO": 0,
+        "MICRO EMPRESA": 1,
+        "ME": 1,
+        "EMPRESA DE PEQUENO PORTE": 3,
+        "EPP": 3,
+        "DEMAIS": 5
+    },
+    "registrationStatusCode": {
+        "NULA": 1,
+        "ATIVA": 2,
+        "SUSPENSA": 3,
+        "INAPTA": 4,
+        "BAIXADA": 8
+    }
+}
